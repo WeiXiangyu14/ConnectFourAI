@@ -1,0 +1,11 @@
+This is an artificial intelligence program to play Connect Four
+
+It tries to find the best possible move for a chessboard of Connect Four with UCT algorithm. 
+
+When the information of a chessboard is sent to the program, it builds the search tree, using Monte Carlo method in strategy.cpp.
+
+Then it tries to find the optimal solution of the chessboard within the time limit and send the solution back to the Connect Four Game program.
+
+This program can beat all my friends, and it has a winning percentage of 92% when compete with other AI programs proved by my teacher.
+
+
